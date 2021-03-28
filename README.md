@@ -1,6 +1,13 @@
-# final-project-Maitreyee2095
+# AESD-final-project-Maitreyee2095
 This Repository will include Implementation of minimal OS using buildroot for  X-Server implementation by Maitreyee Rao 
 
+# Source Code Organization
+
+Buildroot Repository will be hosted at [BuildrootServer-Repo](https://github.com/cu-ecen-5013/final-project-Maitreyee2095.git)
+
+Yocto Repository will be hosted at [YoctoServer-Repo](https://github.com/cu-ecen-5013/final-project-modi-disha.git)
+
+Client-X code will be hosted in a repository at [Client-Repo](https://github.com/cu-ecen-5013/final-project-modi-disha.git)
 
 
 # Wiki Page
