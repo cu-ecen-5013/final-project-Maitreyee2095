@@ -1,6 +1,5 @@
 # final-project-Maitreyee2095
-final-project-Maitreyee2095 created by GitHub Classroom
-
+This Repository will include Implementation of minimal OS using buildroot for  X-Server implementation by Maitreyee Rao 
 
 
 
